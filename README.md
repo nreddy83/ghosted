@@ -7,23 +7,23 @@ You might also need to install additional packages in order for the react module
 
 The structure of the project on my device is as follows:
 
-texas-ghost-towns
-    src
-        components
-            TexasMap.js
-        App.css
-        App.js
-        index.css
-        index.js
-    public
-        images
-            *all images used for image generation
-        ghost_towns.csv
-        nearbycitiespopulationgrowth.csv
-        logo.jpeg
-        index.html
-    package-lock.json
-    package.json
+texas-ghost-towns \
+    src \
+        components \
+            TexasMap.js \
+        App.css \
+        App.js \
+        index.css \
+        index.js \
+    public \
+        images \
+            *all images used for image generation \
+        ghost_towns.csv \
+        nearbycitiespopulationgrowth.csv \
+        logo.jpeg \
+        index.html \ 
+    package-lock.json \
+    package.json \
 
 # Getting Started with Create React App
 
