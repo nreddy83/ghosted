@@ -1,0 +1,18 @@
+OBJECTID,GHOSTTOWNNAME,COUNTY,DESCRIPTION,NEARBYTOWN,COORDINATES,POPULATION,ABANDONEDREASON
+1,ADOBE WALLS,Hutchinson,Historic trading post and site of a famous battle.,Pampa,"(35.91, -101.17)",15,It's abandoned due to its role in a historic battle and subsequent decline as a trading post.
+2,AQUILLA,Hill,"Once a booming town, now a quiet spot with historical ruins.",Hillsboro,"(31.85, -97.22)",110,"It's abandoned after its initial boom, leaving behind historical ruins."
+3,ARDEN,Irion County,Mining town with remnants of old mining structures.,Mertzon,"(31.44, -100.77)",1,It's abandoned after the decline of the mining industry.
+4,BELKNAP,Young,Ghost town with remnants of old settlements and a few ruins.,Graham,"(33.15, -98.74)",158,It's abandoned due to the deterioration of settlements and the area’s decline.
+5,CLARA,Wichita,"Site of an old railroad town, now a rural area.",Electra,"(34.09, -98.70)",100,It's abandoned after the railroad stopped operating in the area.
+6,DOANS CROSSING,Wilbarger,Was once a thriving stop on the Butterfield Overland Mail Route.,Vernon,"(34.34, -99.26)",20,It's abandoned after the decline of the Butterfield Overland Mail Route.
+7,FORT GRIFFIN,Shackelford,"Historic military fort, part of Texas' frontier history.",Albany,"(32.92, -99.23)",12,It's abandoned after the end of its military use and the frontier period.
+8,INDIANOLA,Calhoun,Once a thriving seaport before hurricane devastation.,Port Lavaca,"(28.51, -96.49)",15,It's abandoned after being devastated by hurricanes.
+9,KINGSMILL,Gray,Abandoned settlement near an old railroad line.,Lefors,"(35.49, -101.06)",0,It's abandoned as the settlement faded after the railroad left.
+10,LANGTRY,Val Verde,"Famous for its role in the Wild West, home to Judge Roy Bean.",Del Rio,"(29.81, -101.56)",11,It's abandoned after its role in the Wild West faded and Judge Roy Bean's influence ended.
+11,MOBEETIE,Wheeler,"Once a prosperous town, now only a few buildings remain.",Shamrock,"(35.54, -100.44)",87,"It's abandoned after its prosperity faded, leaving only a few buildings."
+12,NIX,Kaufman,"Once a small settlement, now a sparsely populated area.",Kaufman,"(31.11, -98.37)",3,It's abandoned as the settlement became sparsely populated
+13,SHERWOOD,Tom Green,Known for its ranching heritage and a few surviving buildings.,San Angelo,"(31.28, -100.80)",73,It's abandoned due to the decline of ranching in the area
+14,THURBER,Palo Pinto,"Once a booming coal mining town, now a ghost town with ruins.",Strawn,"(32.51, -98.42)",23,It's abandoned after the coal mining industry collapsed.
+15,TULETTA,Bee,"Small farming community, now a rural area.",Beeville,"(28.57, -97.80)",231,"It's abandoned as farming in the area declined, leaving it rural."
+16,WINK,Winkler County,"Famous for oil discovery, now a fading town with few residents",Kermit,"(31.75, -103.16)",915,"It's abandoned as oil production slowed, leading to a population decline."
+17,ZELLA,McMullen,"Once a small rural settlement, now mostly abandoned.",Tilden,"(28.56, -98.79)",0,It's abandoned due to its decline as a rural settlement.
