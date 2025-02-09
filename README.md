@@ -5,10 +5,6 @@ Please keep in mind these automatically become installed when running these foll
 
 You might also need to install additional packages in order for the react modules to run successfully, so please keep this in mind!
 
-The structure of the project on my device is as follows:
-
-texas-ghost-towns ├── src │ ├── components │ │ └── TexasMap.js │ ├── App.css │ ├── App.js │ ├── index.css │ └── index.js ├── public │ ├── images │ │ └── all images used for image generation │ ├── ghost_towns.csv │ ├── nearbycitiespopulationgrowth.csv │ ├── logo.jpeg │ └── index.html ├── package-lock.json └── package.json
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
